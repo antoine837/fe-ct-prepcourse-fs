@@ -4,7 +4,7 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
-   "Juanes";
+   console.log (string = "str");
 }
 
 // ⛔️ "X" e "Y" son números.
