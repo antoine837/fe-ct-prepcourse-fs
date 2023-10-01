@@ -8,7 +8,7 @@ function sonIguales(x, y) {
    if (x == y) {
       return (true)
    }
-   else if (x !=y ) {
+   else if (x != y) {
             return (false)      
    }
 }
@@ -20,7 +20,7 @@ function tienenMismaLongitud(almacen, portero) {
    if (almacen == portero) {
       return (true)
    }
-   else if (str1 != str2){
+   else if (almacen != portero){
       return (false)
    }
 }
